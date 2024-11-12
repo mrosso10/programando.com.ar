@@ -17,7 +17,7 @@
     } else {
       return setTimeout(function() {
         return borrar();
-      }, next(200));
+      }, next(70));
     }
   };
 
